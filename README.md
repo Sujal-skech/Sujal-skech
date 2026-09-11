@@ -1,177 +1,231 @@
-# 👋 Hi, I'm Sujal Singh
+# Hi, I'm Sujal Singh 👋
 
-### 🚀 Aspiring AI/ML & Data Engineer
+### AI/ML Engineer • Data Engineer • Builder
 
-I'm a **B.Tech Computer Science student** passionate about building intelligent systems, data-driven applications, and practical AI solutions that solve real-world problems.
+> **Turning data into intelligence, and ideas into real-world products.**
 
-I enjoy turning ideas into working products — from **data pipelines and machine learning models to AI-powered applications**.
+I'm a **B.Tech Computer Science student** focused on **Artificial Intelligence, Machine Learning, and Data Engineering**.
 
----
+I build systems that go beyond demos — from **data pipelines and analytics platforms to intelligent risk detection and AI-powered applications**.
 
-## 🧑‍💻 About Me
-
-* 🎓 B.Tech CSE Student
-* 🤖 Aspiring **AI/ML Engineer**
-* 📊 Exploring **Data Engineering & Data Analytics**
-* 🧠 Interested in Machine Learning, Deep Learning & Generative AI
-* 🔧 Building real-world projects with Python, SQL, APIs and Cloud
-* 🔬 Interested in AI research and practical applications
-* 🚀 Always learning, building and improving
+Currently, I'm focused on developing the engineering skills required to take an ML idea from **data → model → API → production**.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ What I Do
 
-### 💻 Programming
+```text
+Data
+  ↓
+Engineering
+  ↓
+Machine Learning
+  ↓
+Intelligent Systems
+  ↓
+Production
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### 🤖 AI / Machine Learning
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-
-### 📊 Data & Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-### ⚙️ Backend & Tools
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
-### ☁️ Cloud
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
+* 🤖 Build **AI/ML systems** for real-world problems
+* 📊 Design **data pipelines, databases & analytics solutions**
+* 🧠 Explore **Deep Learning, NLP, Computer Vision & LLMs**
+* ⚙️ Develop production-ready APIs and applications
+* ☁️ Learn **Cloud, MLOps & scalable AI infrastructure**
+* 🔬 Explore AI research and practical experimentation
 
 ---
 
-## 🚀 Featured Projects
+## 🧰 Engineering Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python\&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge\&logo=cplusplus\&logoColor=00599C)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge\&logo=postgresql\&logoColor=4479A1)
+
+### AI / Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge\&logo=pytorch\&logoColor=EE4C2C)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge\&logo=scikit-learn\&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge\&logo=pandas\&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge\&logo=numpy\&logoColor=013243)
+
+### Data & Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
+
+### Backend / Infrastructure
+
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge\&logo=fastapi\&logoColor=009688)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge\&logo=docker\&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
+
+### Cloud
+
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge\&logo=amazonwebservices\&logoColor=FF9900)
+
+---
+
+# 🚀 Selected Projects
 
 ### 🛡️ AI Risk Manager
 
-**AI-powered payment risk intelligence platform** designed to detect suspicious transactions and provide explainable risk decisions.
+**AI-powered payment risk intelligence platform**
 
-**Tech:** Python • FastAPI • Machine Learning • PostgreSQL • Docker • React
+A real-time risk analysis system designed to evaluate transactions using **machine learning, anomaly detection and rule-based intelligence**.
 
-**Key Features:**
+**Highlights**
 
-* Risk scoring
-* Fraud/anomaly detection
-* Rule-based risk analysis
-* Transaction monitoring
+* Risk scoring & transaction intelligence
+* ML-based risk analysis
+* Anomaly detection
+* Rule-based decision engine
 * Explainable risk factors
-* ALLOW / REVIEW / BLOCK decisions
+* `ALLOW` / `REVIEW` / `BLOCK` decisions
+* PostgreSQL-backed transaction system
+* FastAPI backend
+* Dockerized infrastructure
+
+**Stack:** `Python` `FastAPI` `Machine Learning` `PostgreSQL` `Docker` `React`
 
 ---
 
-### 📚 RAG Document Q&A
+### 📚 RAG Document Intelligence
 
-An AI-powered document question-answering system that allows users to interact with their documents using **Retrieval-Augmented Generation**.
+**Ask questions. Retrieve knowledge. Generate answers.**
 
-**Tech:** Python • Embeddings • Vector Database • LLMs • RAG
+A Retrieval-Augmented Generation system designed to transform documents into an interactive knowledge base.
 
----
-
-### 📊 Data Analytics Projects
-
-Building data-driven dashboards and analytics solutions using **SQL, Python, Tableau and cloud technologies** to extract useful insights from real-world datasets.
-
----
-
-## 📈 Currently Learning
+**Pipeline**
 
 ```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-Computer Vision • NLP • Transformers
-        ↓
-Generative AI & LLMs
-        ↓
-MLOps • Docker • AWS
-        ↓
-AI Research & Production Systems
+Documents
+    ↓
+Text Extraction
+    ↓
+Chunking
+    ↓
+Embeddings
+    ↓
+Vector Database
+    ↓
+Retriever
+    ↓
+LLM
+    ↓
+Grounded Answer
 ```
 
-Alongside AI, I'm strengthening my skills in:
-
-**Data Engineering → SQL → Databases → ETL → Data Pipelines → Cloud**
+**Stack:** `Python` `RAG` `Embeddings` `Vector DB` `LLMs`
 
 ---
 
-## 🎯 2026 Goals
+### 📊 Data & Analytics Systems
 
-* 🚀 Build production-ready AI/ML projects
-* 🧠 Strengthen Machine Learning & Deep Learning fundamentals
-* 📊 Become strong in Data Engineering
-* ☁️ Learn production AI with AWS & MLOps
-* 🔬 Explore AI research and publish meaningful work
-* 💼 Prepare for high-impact AI/ML & Data Engineering opportunities
+Building data-driven applications that transform raw datasets into **actionable insights** using SQL, Python, visualization and cloud technologies.
+
+**Focus:** `Data Cleaning` `SQL` `ETL` `Analytics` `Visualization`
 
 ---
 
-## 📊 GitHub Stats
+# 🧠 Current Focus
+
+I'm currently going deeper into:
+
+```text
+Python & C++
+       │
+       ▼
+Data Structures & Algorithms
+       │
+       ▼
+SQL & Database Systems
+       │
+       ▼
+Data Engineering
+       │
+       ▼
+Machine Learning
+       │
+       ▼
+Deep Learning
+       │
+       ├──── Computer Vision
+       ├──── NLP & Transformers
+       └──── Time Series
+       │
+       ▼
+Generative AI & LLMs
+       │
+       ▼
+MLOps + Docker + AWS
+       │
+       ▼
+Production AI Systems
+```
+
+---
+
+# 🎯 2026 Mission
+
+> **Become an engineer who can build intelligent systems end-to-end.**
+
+### My goals
+
+* Build production-grade AI/ML projects
+* Master Machine Learning & Deep Learning fundamentals
+* Become strong in Data Engineering
+* Learn scalable data and ML infrastructure
+* Deploy models using Cloud & MLOps
+* Contribute to open source
+* Explore AI research
+* Build solutions that solve meaningful problems
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujal-skech&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal-skech&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujal-skech&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal-skech&layout=compact&hide_border=true&theme=github_dark" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sujal-skech&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+# 🤝 Let's Build Something
+
+I'm interested in collaborating on:
+
+**AI/ML • Data Engineering • Open Source • Research • Hackathons • Intelligent Applications**
+
+If you're building something interesting, let's connect.
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sujal-skech&theme=tokyonight" />
+
+<a href="https://github.com/Sujal-skech">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
 </p>
 
 ---
 
-## 🤝 Let's Connect
+<p align="center">
 
-I'm always interested in:
+### <i>Build → Break → Learn → Improve → Repeat.</i> 🚀
 
-* 🤖 AI/ML projects
-* 📊 Data Engineering
-* 🔬 Research
-* 💡 Hackathons
-* 🚀 Open-source projects
-* 🤝 Collaborations
+</p>
 
-### 📫 Connect with me
-
-**LinkedIn:** Add your LinkedIn URL here
-
-**GitHub:** [@Sujal-skech](https://github.com/Sujal-skech)
-
----
-
-> **Build. Learn. Experiment. Repeat. 🚀**
-
-⭐ If you find my projects interesting, consider giving them a star!
-
-
-<!--
-**Sujal-skech/Sujal-skech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<sub>Thanks for visiting my profile.</sub>
+</p>
